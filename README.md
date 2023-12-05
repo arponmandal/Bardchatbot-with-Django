@@ -1,1 +1,1 @@
-# gtpchatbot-with-gradio
+# Bardchatbot-with-gradio
